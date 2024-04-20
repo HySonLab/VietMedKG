@@ -20,19 +20,20 @@ def translate_text(text):
         print(f"Error translating text: {text}")
         try:
             # Split text by "."
-            segments = text.split(".")
+            segments = text.split("。")
             # Translate each segment individually
-            translated_segments = [translate_text(segment, from_language, to_language) for segment in segments]
+            translated_segments = [translate_text(segment) for segment in segments]
             # Join translated segments with "."
             translated_text = ".".join(translated_segments)
             return translated_text
         except Exception as e:
+            text = "LỖI CẦN SỬA SAU, DỊCH LẠI" + text
             print(f"Error splitting and translating text: {text}")
-            return None
+            return text
 
 # File paths
 input_csv_file = "../data_cn/raw_data.csv"
-output_csv_file = "translated_data.csv"
+output_csv_file = "translated_data_vns.csv"
 
 # Read the input CSV file into a pandas DataFrame
 df = pd.read_csv(input_csv_file)
@@ -41,7 +42,7 @@ df = pd.read_csv(input_csv_file)
 for i, row in tqdm(df.iterrows(), total=len(df), desc="Translating Rows", unit="row"):
     for column in df.columns:
         try:
-            df.at[i, column] = translate_text(row[column], from_language="zh", to_language="vi")  # Translate Chinese to Vietnamese
+            df.at[i, column] = translate_text(row[column])  # Translate Chinese to Vietnamese
         except Exception as e:
             print(f"Error translating cell at row {i}, column '{column}'")
 
