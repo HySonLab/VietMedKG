@@ -1,21 +1,22 @@
 import pandas as pd
 import translators as ts
 from tqdm import tqdm
+import os
 
 # Function to translate text using the translators library
 def translate_text(text):
     try:
         if isinstance(text, list):  # Check if 'text' is a list
-            translated_text = [translate_text(item, from_language, to_language) for item in text]  # Translate each element recursively
+            translated_text = [translate_text(item) for item in text]  # Translate each element recursively
             return translated_text
-        elif text:
+        elif isinstance(text, str):
             # Translate from Chinese to English
             translated_text_en = ts.translate_text(text, translator="baidu", professional_field="medicine", sleep_seconds=5, limit_of_length=500000)
             # Translate from English to Vietnamese
             translated_text_vi = ts.translate_text(translated_text_en, translator="baidu", to_language="vie", professional_field="medicine", sleep_seconds=5, limit_of_length=500000)
             return translated_text_vi
-        else:
-            return text  # Return the original text if it is empty or null
+        elif text == "" or pd.isnull(text):
+            return None  # Return the original text if it is empty or null
     except Exception as e:
         print(f"Error translating text: {text}")
         try:
@@ -33,20 +34,37 @@ def translate_text(text):
 
 # File paths
 input_csv_file = "../data_cn/raw_data.csv"
-output_csv_file = "translated_data_vns.csv"
+output_csv_file = "data_translated.csv"
+temp_output_csv_file = "data_temp.csv"
 
 # Read the input CSV file into a pandas DataFrame
-df = pd.read_csv(input_csv_file)
+df = pd.read_csv(input_csv_file, encoding="utf-8")
 
 # Translate all cells in the DataFrame
+translated_rows = []
 for i, row in tqdm(df.iterrows(), total=len(df), desc="Translating Rows", unit="row"):
-    for column in df.columns:
-        try:
-            df.at[i, column] = translate_text(row[column])  # Translate Chinese to Vietnamese
-        except Exception as e:
-            print(f"Error translating cell at row {i}, column '{column}'")
+    if i <= 720:
+        continue
+    try:
+        translated_row = [translate_text(cell) for cell in row]
+        translated_rows.append(translated_row)
+        if (i + 1) % 10 == 0:  # Save every 10 translated rows
+            temp_df = pd.DataFrame(translated_rows, columns=df.columns)
+            temp_df.to_csv(temp_output_csv_file, mode='a', index=False, encoding="utf-8")
+            translated_rows = []  # Reset for next batch
+    except Exception as e:
+        print(f"Error translating row {i}")
 
-# Save the translated DataFrame to a new CSV file
-df.to_csv(output_csv_file, index=False, encoding="utf-8")
+# Save the remaining translated rows
+if translated_rows:
+    temp_df = pd.DataFrame(translated_rows, columns=df.columns)
+    temp_df.to_csv(temp_output_csv_file, mode='a', index=False, header=False, encoding="utf-8")
+
+# Concatenate all saved translated parts into a single file
+all_translated_df = pd.concat(map(pd.read_csv, [temp_output_csv_file]))
+all_translated_df.to_csv(output_csv_file, index=False, encoding="utf-8")
+
+# Delete the temporary file
+os.remove(temp_output_csv_file)
+
 print("Translation completed. Output written to", output_csv_file)
-
