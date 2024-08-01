@@ -1,4 +1,4 @@
-# Knowledge Graph for Vietnamese Traditional Medicine
+# VieMedKG: Knowledge Graph and Benchmark for Traditional Vietnamese Medicine
 
 Contributors:
 * Tam Trinh
