@@ -2,5 +2,5 @@
 
 Contributors:
 * Tam Trinh
-* Dao Hoang
-* Truong Son Hy (Correspondent / PI)
+* Anh Hoang
+* Hy Truong Son (Correspondent / PI)
