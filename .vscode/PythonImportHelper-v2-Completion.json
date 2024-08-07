@@ -1,31 +1,5 @@
 [
     {
-        "label": "pandas",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pandas",
-        "description": "pandas",
-        "detail": "pandas",
-        "documentation": {}
-    },
-    {
-        "label": "translators",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "translators",
-        "description": "translators",
-        "detail": "translators",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
         "label": "requests",
         "kind": 6,
         "isExtraImport": true,
@@ -82,6 +56,14 @@
         "importPath": "json",
         "description": "json",
         "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
         "documentation": {}
     },
     {
@@ -577,39 +559,86 @@
         "documentation": {}
     },
     {
-        "label": "translate_text",
-        "kind": 2,
-        "importPath": "data.data_vie.translate",
-        "description": "data.data_vie.translate",
-        "peekOfCode": "def translate_text(text):\n    try:\n        if isinstance(text, list):  # Check if 'text' is a list\n            translated_text = [translate_text(item, from_language, to_language) for item in text]  # Translate each element recursively\n            return translated_text\n        elif text:\n            # Translate from Chinese to English\n            translated_text_en = ts.translate_text(text, translator=\"baidu\", professional_field=\"medicine\", sleep_seconds=5, limit_of_length=500000)\n            # Translate from English to Vietnamese\n            translated_text_vi = ts.translate_text(translated_text_en, translator=\"baidu\", to_language=\"vie\", professional_field=\"medicine\", sleep_seconds=5, limit_of_length=500000)",
-        "detail": "data.data_vie.translate",
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
         "documentation": {}
     },
     {
-        "label": "input_csv_file",
-        "kind": 5,
-        "importPath": "data.data_vie.translate",
-        "description": "data.data_vie.translate",
-        "peekOfCode": "input_csv_file = \"../data_cn/raw_data.csv\"\noutput_csv_file = \"translated_data.csv\"\n# Read the input CSV file into a pandas DataFrame\ndf = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:",
-        "detail": "data.data_vie.translate",
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
         "documentation": {}
     },
     {
-        "label": "output_csv_file",
-        "kind": 5,
-        "importPath": "data.data_vie.translate",
-        "description": "data.data_vie.translate",
-        "peekOfCode": "output_csv_file = \"translated_data.csv\"\n# Read the input CSV file into a pandas DataFrame\ndf = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:\n            print(f\"Error translating cell at row {i}, column '{column}'\")",
-        "detail": "data.data_vie.translate",
+        "label": "Graph",
+        "importPath": "py2neo",
+        "description": "py2neo",
+        "isExtraImport": true,
+        "detail": "py2neo",
         "documentation": {}
     },
     {
-        "label": "df",
-        "kind": 5,
-        "importPath": "data.data_vie.translate",
-        "description": "data.data_vie.translate",
-        "peekOfCode": "df = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:\n            print(f\"Error translating cell at row {i}, column '{column}'\")\n# Save the translated DataFrame to a new CSV file\ndf.to_csv(output_csv_file, index=False, encoding=\"utf-8\")",
-        "detail": "data.data_vie.translate",
+        "label": "Node",
+        "importPath": "py2neo",
+        "description": "py2neo",
+        "isExtraImport": true,
+        "detail": "py2neo",
+        "documentation": {}
+    },
+    {
+        "label": "Relationship",
+        "importPath": "py2neo",
+        "description": "py2neo",
+        "isExtraImport": true,
+        "detail": "py2neo",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "translators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "translators",
+        "description": "translators",
+        "detail": "translators",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
         "documentation": {}
     },
     {
@@ -1708,6 +1737,186 @@
         "description": "experiments.zero_shot_gpt4",
         "peekOfCode": "average_gpt4_inference_time = sum(gpt4_inference_times) / len(gpt4_inference_times)\nprint(f\"Average Inference Time for GPT-4: {average_gpt4_inference_time} seconds\")\n# Calculate mean scores and write to text files\ndef write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")",
         "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "create_list_of_dicts",
+        "kind": 2,
+        "importPath": "src.benchmark.create_triple",
+        "description": "src.benchmark.create_triple",
+        "peekOfCode": "def create_list_of_dicts(df):\n    result = []\n    for _, row in df.iterrows():\n        disease_name = row['disease_name']\n        for col in df.columns:\n            row[col] = str(row[col])\n            row[col] = row[col].replace(\"[\", \"\").replace(\"]\", \"\").replace('\\\"',\"\").replace(\"\\'\",\"\")\n            if col != 'disease_name' and (not pd.isna(row[col]) and row[col] != [] and row[col] != \"\" and row[col]!=\"nan\"):\n                result.append({\n                    \"header\": disease_name,",
+        "detail": "src.benchmark.create_triple",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "src.benchmark.create_triple",
+        "description": "src.benchmark.create_triple",
+        "peekOfCode": "df = pd.read_csv(\"../../data/data_translated.csv\")\n# Create the list of dictionaries\nlist_of_dicts = create_list_of_dicts(df)\n# Save the list of dictionaries to a JSON file\noutput_file = '../../data/benchmark/output_1806.json'\nwith open(output_file, 'w', encoding='utf-8') as f:\n    json.dump(list_of_dicts, f, ensure_ascii=False, indent=4)\nprint(f\"Data has been saved to {output_file}\")",
+        "detail": "src.benchmark.create_triple",
+        "documentation": {}
+    },
+    {
+        "label": "list_of_dicts",
+        "kind": 5,
+        "importPath": "src.benchmark.create_triple",
+        "description": "src.benchmark.create_triple",
+        "peekOfCode": "list_of_dicts = create_list_of_dicts(df)\n# Save the list of dictionaries to a JSON file\noutput_file = '../../data/benchmark/output_1806.json'\nwith open(output_file, 'w', encoding='utf-8') as f:\n    json.dump(list_of_dicts, f, ensure_ascii=False, indent=4)\nprint(f\"Data has been saved to {output_file}\")",
+        "detail": "src.benchmark.create_triple",
+        "documentation": {}
+    },
+    {
+        "label": "output_file",
+        "kind": 5,
+        "importPath": "src.benchmark.create_triple",
+        "description": "src.benchmark.create_triple",
+        "peekOfCode": "output_file = '../../data/benchmark/output_1806.json'\nwith open(output_file, 'w', encoding='utf-8') as f:\n    json.dump(list_of_dicts, f, ensure_ascii=False, indent=4)\nprint(f\"Data has been saved to {output_file}\")",
+        "detail": "src.benchmark.create_triple",
+        "documentation": {}
+    },
+    {
+        "label": "uppercase_first_letter",
+        "kind": 2,
+        "importPath": "src.kgraph.create_KG",
+        "description": "src.kgraph.create_KG",
+        "peekOfCode": "def uppercase_first_letter(text):\n    if isinstance(text, str):\n        return text.capitalize()  # Capitalize first letter of each word\n    else:\n        return text\ndef clear_graph():\n    query = \"\"\"\n    MATCH (n)\n    DETACH DELETE n\n    \"\"\"",
+        "detail": "src.kgraph.create_KG",
+        "documentation": {}
+    },
+    {
+        "label": "clear_graph",
+        "kind": 2,
+        "importPath": "src.kgraph.create_KG",
+        "description": "src.kgraph.create_KG",
+        "peekOfCode": "def clear_graph():\n    query = \"\"\"\n    MATCH (n)\n    DETACH DELETE n\n    \"\"\"\n    graph.run(query)\n    print(\"Graph has been cleared...\")\ndef check_node_exists(graph, associated_disease):\n    tên_bệnh = associated_disease.capitalize()\n    query = \"\"\"",
+        "detail": "src.kgraph.create_KG",
+        "documentation": {}
+    },
+    {
+        "label": "check_node_exists",
+        "kind": 2,
+        "importPath": "src.kgraph.create_KG",
+        "description": "src.kgraph.create_KG",
+        "peekOfCode": "def check_node_exists(graph, associated_disease):\n    tên_bệnh = associated_disease.capitalize()\n    query = \"\"\"\n    MATCH (n:BỆNH {tên_bệnh: $tên_bệnh})\n    RETURN COUNT(n) > 0 AS node_exists\n    \"\"\"\n    result = graph.run(query, tên_bệnh=tên_bệnh).data()\n    return result[0][\"node_exists\"] if result else False\ndef process_row(row):\n    disease_name = row['disease_name']",
+        "detail": "src.kgraph.create_KG",
+        "documentation": {}
+    },
+    {
+        "label": "process_row",
+        "kind": 2,
+        "importPath": "src.kgraph.create_KG",
+        "description": "src.kgraph.create_KG",
+        "peekOfCode": "def process_row(row):\n    disease_name = row['disease_name']\n    disease_description = row['disease_description']\n    disease_category = row['disease_category']\n    disease_prevention = row['disease_prevention']\n    disease_cause = row['disease_cause']\n    disease_symptom = row['disease_symptom']\n    people_easy_get = row['people_easy_get']\n    associated_disease = row['associated_disease']\n    cure_method = row['cure_method']",
+        "detail": "src.kgraph.create_KG",
+        "documentation": {}
+    },
+    {
+        "label": "get_prompt",
+        "kind": 2,
+        "importPath": "src.kgraph.improve_translation",
+        "description": "src.kgraph.improve_translation",
+        "peekOfCode": "def get_prompt(json_input):\n    json_output = {\n        \"vietnamese_translation_adjusted\": \"NULL\"\n    }\n    prompt = f\"\"\"\n    As a highly skilled doctor and Vietnamese linguist, your task is to review and improve the quality of translated medical texts \n    from English to Vietnamese. You will receive input of Vietnamese translated version. Your job is to check the quality of translation for medical accuracy, trustworthy, linguistic correctness, \n    and overall readability. If necessary, make adjustments to ensure the Vietnamese translation is accurate and clear. If it's correct, return the origin text\n    Here is the json input: {json_input} and the output json should be in json format like this{json_output}, you must replace \"NULL\" by prompted text.\n    \"\"\"",
+        "detail": "src.kgraph.improve_translation",
+        "documentation": {}
+    },
+    {
+        "label": "review_and_adjust_translation",
+        "kind": 2,
+        "importPath": "src.kgraph.improve_translation",
+        "description": "src.kgraph.improve_translation",
+        "peekOfCode": "def review_and_adjust_translation(vietnamese_medical_text):\n    # Simulated response from the language model\n    # In practice, this should call the language model API and process its response\n    json_input = {\"vietnamese_medical_text\": vietnamese_medical_text}\n    prompt = get_prompt(json_input)\n    # Here you should call the language model with the prompt and get the response\n    # For the sake of this example, we will assume the response from the language model is the input text\n    # Replace this with actual API call and processing logic\n    result = get_GPT(prompt)\n    try:",
+        "detail": "src.kgraph.improve_translation",
+        "documentation": {}
+    },
+    {
+        "label": "save_df",
+        "kind": 2,
+        "importPath": "src.kgraph.improve_translation",
+        "description": "src.kgraph.improve_translation",
+        "peekOfCode": "def save_df(adjusted_df, file_path):\n    adjusted_df.to_csv(file_path, index=False)\n    print(f\"DataFrame saved to {file_path}\")\ndef create_adjusted_df(original_df, save_interval=2, file_path='adjusted_df.csv'):\n    adjusted_df = original_df.copy()\n    row_count = 0\n    for column in original_df.columns:\n        for index, value in original_df[column].items():\n            if pd.notnull(value):\n                adjusted_text = review_and_adjust_translation(value)",
+        "detail": "src.kgraph.improve_translation",
+        "documentation": {}
+    },
+    {
+        "label": "create_adjusted_df",
+        "kind": 2,
+        "importPath": "src.kgraph.improve_translation",
+        "description": "src.kgraph.improve_translation",
+        "peekOfCode": "def create_adjusted_df(original_df, save_interval=2, file_path='adjusted_df.csv'):\n    adjusted_df = original_df.copy()\n    row_count = 0\n    for column in original_df.columns:\n        for index, value in original_df[column].items():\n            if pd.notnull(value):\n                adjusted_text = review_and_adjust_translation(value)\n                if adjusted_text != \"NULL\":\n                    adjusted_df.at[index, column] = adjusted_text\n            row_count += 1",
+        "detail": "src.kgraph.improve_translation",
+        "documentation": {}
+    },
+    {
+        "label": "TextTranslator",
+        "kind": 6,
+        "importPath": "src.kgraph.translate",
+        "description": "src.kgraph.translate",
+        "peekOfCode": "class TextTranslator:\n    \"\"\"\n    A class to translate text from Chinese to Vietnamese using the Baidu translator.\n    \"\"\"\n    def __init__(self, professional_field=\"medicine\", sleep_seconds=5, limit_of_length=500000):\n        \"\"\"\n        Initialize the TextTranslator with specific translation settings.\n        Parameters:\n        professional_field (str): The field of expertise for translation (default is \"medicine\").\n        sleep_seconds (int): Sleep time between translations to avoid rate limits (default is 5 seconds).",
+        "detail": "src.kgraph.translate",
+        "documentation": {}
+    },
+    {
+        "label": "CSVTranslator",
+        "kind": 6,
+        "importPath": "src.kgraph.translate",
+        "description": "src.kgraph.translate",
+        "peekOfCode": "class CSVTranslator:\n    \"\"\"\n    A class to handle translation of CSV files.\n    \"\"\"\n    def __init__(self, input_csv_file, output_csv_file, temp_output_csv_file, translator):\n        \"\"\"\n        Initialize the CSVTranslator with file paths and a translator instance.\n        Parameters:\n        input_csv_file (str): Path to the input CSV file.\n        output_csv_file (str): Path to the final output CSV file.",
+        "detail": "src.kgraph.translate",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.kgraph.translate",
+        "description": "src.kgraph.translate",
+        "peekOfCode": "def main():\n    \"\"\"\n    Main function to execute the CSV translation.\n    \"\"\"\n    input_csv_file = \"../data/raw_data.csv\"\n    output_csv_file = \"data_translated.csv\"\n    temp_output_csv_file = \"data_temp.csv\"\n    translator = TextTranslator()\n    csv_translator = CSVTranslator(input_csv_file, output_csv_file, temp_output_csv_file, translator)\n    csv_translator.translate_csv()",
+        "detail": "src.kgraph.translate",
+        "documentation": {}
+    },
+    {
+        "label": "get_GPT",
+        "kind": 2,
+        "importPath": "src.llm",
+        "description": "src.llm",
+        "peekOfCode": "def get_GPT(text):\n    os.environ['OPENAI_API_KEY'] = api_key\n    openai.api_key = os.environ['OPENAI_API_KEY']\n    client = OpenAI()\n    response = client.chat.completions.create(\n    model=\"gpt-3.5-turbo\",\n    messages=[{\n        \"role\": \"system\", \"content\": \"You are a Vietnamese and Chinease linguistic and pharmarcist and expert in 2 these fields\",\n        \"role\": \"user\", \"content\": text}],\n    temperature=0,",
+        "detail": "src.llm",
+        "documentation": {}
+    },
+    {
+        "label": "get_gemini",
+        "kind": 2,
+        "importPath": "src.llm",
+        "description": "src.llm",
+        "peekOfCode": "def get_gemini(text): \n    response = model.generate_content([text])\n    response = response.text\n    return response",
+        "detail": "src.llm",
+        "documentation": {}
+    },
+    {
+        "label": "generation_config",
+        "kind": 5,
+        "importPath": "src.llm",
+        "description": "src.llm",
+        "peekOfCode": "generation_config = {\n  \"temperature\": 0,\n  \"top_p\": 1,\n  \"top_k\": 1,\n  \"max_output_tokens\": 50000,\n}\nsafety_settings = [\n  {\n    \"category\": \"HARM_CATEGORY_HARASSMENT\",\n    \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"",
+        "detail": "src.llm",
+        "documentation": {}
+    },
+    {
+        "label": "safety_settings",
+        "kind": 5,
+        "importPath": "src.llm",
+        "description": "src.llm",
+        "peekOfCode": "safety_settings = [\n  {\n    \"category\": \"HARM_CATEGORY_HARASSMENT\",\n    \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"\n  },\n  {\n    \"category\": \"HARM_CATEGORY_HATE_SPEECH\",\n    \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"\n  },\n  {",
+        "detail": "src.llm",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "src.llm",
+        "description": "src.llm",
+        "peekOfCode": "model = genai.GenerativeModel(model_name=\"gemini-1.0-pro-latest\",\n                              generation_config=generation_config,\n                              safety_settings=safety_settings)\ndef get_GPT(text):\n    os.environ['OPENAI_API_KEY'] = api_key\n    openai.api_key = os.environ['OPENAI_API_KEY']\n    client = OpenAI()\n    response = client.chat.completions.create(\n    model=\"gpt-3.5-turbo\",\n    messages=[{",
+        "detail": "src.llm",
         "documentation": {}
     }
 ]

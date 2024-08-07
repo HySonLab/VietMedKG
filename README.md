@@ -56,6 +56,7 @@ PASSWORD=""
 .
 ├── data/                 # Data files
 ├── experiments/          # Experiments code
+├── preprocessing/        # Data creation code
 ├── results/              # Output result of the experiments
 ├── key.env               # The API key to run the code
 ├── requirements.txt      # Python dependencies
