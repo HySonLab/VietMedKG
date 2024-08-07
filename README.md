@@ -1,5 +1,7 @@
 # VieMedKG: Knowledge Graph and Benchmark for Traditional Vietnamese Medicine
 
+![KG_RAG](KG_RAG.png)
+
 ### 1. Contributors:
 
 - Tam Trinh
