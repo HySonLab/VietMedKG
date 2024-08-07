@@ -1,0 +1,1713 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "translators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "translators",
+        "description": "translators",
+        "detail": "translators",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBasicAuth",
+        "importPath": "requests.auth",
+        "description": "requests.auth",
+        "isExtraImport": true,
+        "detail": "requests.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "AzureChatOpenAI",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "AzureChatOpenAI",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "AzureChatOpenAI",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "sentence_bleu",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "SmoothingFunction",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "sentence_bleu",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "SmoothingFunction",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "sentence_bleu",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "SmoothingFunction",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "sentence_bleu",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "SmoothingFunction",
+        "importPath": "nltk.translate.bleu_score",
+        "description": "nltk.translate.bleu_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.bleu_score",
+        "documentation": {}
+    },
+    {
+        "label": "Rouge",
+        "importPath": "rouge",
+        "description": "rouge",
+        "isExtraImport": true,
+        "detail": "rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Rouge",
+        "importPath": "rouge",
+        "description": "rouge",
+        "isExtraImport": true,
+        "detail": "rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Rouge",
+        "importPath": "rouge",
+        "description": "rouge",
+        "isExtraImport": true,
+        "detail": "rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Rouge",
+        "importPath": "rouge",
+        "description": "rouge",
+        "isExtraImport": true,
+        "detail": "rouge",
+        "documentation": {}
+    },
+    {
+        "label": "meteor_score",
+        "importPath": "nltk.translate.meteor_score",
+        "description": "nltk.translate.meteor_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.meteor_score",
+        "documentation": {}
+    },
+    {
+        "label": "meteor_score",
+        "importPath": "nltk.translate.meteor_score",
+        "description": "nltk.translate.meteor_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.meteor_score",
+        "documentation": {}
+    },
+    {
+        "label": "meteor_score",
+        "importPath": "nltk.translate.meteor_score",
+        "description": "nltk.translate.meteor_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.meteor_score",
+        "documentation": {}
+    },
+    {
+        "label": "meteor_score",
+        "importPath": "nltk.translate.meteor_score",
+        "description": "nltk.translate.meteor_score",
+        "isExtraImport": true,
+        "detail": "nltk.translate.meteor_score",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAdapter",
+        "importPath": "requests.adapters",
+        "description": "requests.adapters",
+        "isExtraImport": true,
+        "detail": "requests.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAdapter",
+        "importPath": "requests.adapters",
+        "description": "requests.adapters",
+        "isExtraImport": true,
+        "detail": "requests.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAdapter",
+        "importPath": "requests.adapters",
+        "description": "requests.adapters",
+        "isExtraImport": true,
+        "detail": "requests.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAdapter",
+        "importPath": "requests.adapters",
+        "description": "requests.adapters",
+        "isExtraImport": true,
+        "detail": "requests.adapters",
+        "documentation": {}
+    },
+    {
+        "label": "Retry",
+        "importPath": "requests.packages.urllib3.util.retry",
+        "description": "requests.packages.urllib3.util.retry",
+        "isExtraImport": true,
+        "detail": "requests.packages.urllib3.util.retry",
+        "documentation": {}
+    },
+    {
+        "label": "Retry",
+        "importPath": "requests.packages.urllib3.util.retry",
+        "description": "requests.packages.urllib3.util.retry",
+        "isExtraImport": true,
+        "detail": "requests.packages.urllib3.util.retry",
+        "documentation": {}
+    },
+    {
+        "label": "Retry",
+        "importPath": "requests.packages.urllib3.util.retry",
+        "description": "requests.packages.urllib3.util.retry",
+        "isExtraImport": true,
+        "detail": "requests.packages.urllib3.util.retry",
+        "documentation": {}
+    },
+    {
+        "label": "Retry",
+        "importPath": "requests.packages.urllib3.util.retry",
+        "description": "requests.packages.urllib3.util.retry",
+        "isExtraImport": true,
+        "detail": "requests.packages.urllib3.util.retry",
+        "documentation": {}
+    },
+    {
+        "label": "GraphCypherQAChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "GraphCypherQAChain",
+        "importPath": "langchain.chains",
+        "description": "langchain.chains",
+        "isExtraImport": true,
+        "detail": "langchain.chains",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jGraph",
+        "importPath": "langchain_community.graphs",
+        "description": "langchain_community.graphs",
+        "isExtraImport": true,
+        "detail": "langchain_community.graphs",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jGraph",
+        "importPath": "langchain_community.graphs",
+        "description": "langchain_community.graphs",
+        "isExtraImport": true,
+        "detail": "langchain_community.graphs",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleGenerativeAIEmbeddings",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatGoogleGenerativeAI",
+        "importPath": "langchain_google_genai",
+        "description": "langchain_google_genai",
+        "isExtraImport": true,
+        "detail": "langchain_google_genai",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "FewShotPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "FewShotPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "SemanticSimilarityExampleSelector",
+        "importPath": "langchain_core.example_selectors",
+        "description": "langchain_core.example_selectors",
+        "isExtraImport": true,
+        "detail": "langchain_core.example_selectors",
+        "documentation": {}
+    },
+    {
+        "label": "SemanticSimilarityExampleSelector",
+        "importPath": "langchain_core.example_selectors",
+        "description": "langchain_core.example_selectors",
+        "isExtraImport": true,
+        "detail": "langchain_core.example_selectors",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jVector",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Neo4jVector",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "langchain",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "langchain",
+        "description": "langchain",
+        "detail": "langchain",
+        "documentation": {}
+    },
+    {
+        "label": "google.generativeai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "google.generativeai",
+        "description": "google.generativeai",
+        "detail": "google.generativeai",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "translate_text",
+        "kind": 2,
+        "importPath": "data.data_vie.translate",
+        "description": "data.data_vie.translate",
+        "peekOfCode": "def translate_text(text):\n    try:\n        if isinstance(text, list):  # Check if 'text' is a list\n            translated_text = [translate_text(item, from_language, to_language) for item in text]  # Translate each element recursively\n            return translated_text\n        elif text:\n            # Translate from Chinese to English\n            translated_text_en = ts.translate_text(text, translator=\"baidu\", professional_field=\"medicine\", sleep_seconds=5, limit_of_length=500000)\n            # Translate from English to Vietnamese\n            translated_text_vi = ts.translate_text(translated_text_en, translator=\"baidu\", to_language=\"vie\", professional_field=\"medicine\", sleep_seconds=5, limit_of_length=500000)",
+        "detail": "data.data_vie.translate",
+        "documentation": {}
+    },
+    {
+        "label": "input_csv_file",
+        "kind": 5,
+        "importPath": "data.data_vie.translate",
+        "description": "data.data_vie.translate",
+        "peekOfCode": "input_csv_file = \"../data_cn/raw_data.csv\"\noutput_csv_file = \"translated_data.csv\"\n# Read the input CSV file into a pandas DataFrame\ndf = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:",
+        "detail": "data.data_vie.translate",
+        "documentation": {}
+    },
+    {
+        "label": "output_csv_file",
+        "kind": 5,
+        "importPath": "data.data_vie.translate",
+        "description": "data.data_vie.translate",
+        "peekOfCode": "output_csv_file = \"translated_data.csv\"\n# Read the input CSV file into a pandas DataFrame\ndf = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:\n            print(f\"Error translating cell at row {i}, column '{column}'\")",
+        "detail": "data.data_vie.translate",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "data.data_vie.translate",
+        "description": "data.data_vie.translate",
+        "peekOfCode": "df = pd.read_csv(input_csv_file)\n# Translate all cells in the DataFrame\nfor i, row in tqdm(df.iterrows(), total=len(df), desc=\"Translating Rows\", unit=\"row\"):\n    for column in df.columns:\n        try:\n            df.at[i, column] = translate_text(row[column], from_language=\"zh\", to_language=\"vi\")  # Translate Chinese to Vietnamese\n        except Exception as e:\n            print(f\"Error translating cell at row {i}, column '{column}'\")\n# Save the translated DataFrame to a new CSV file\ndf.to_csv(output_csv_file, index=False, encoding=\"utf-8\")",
+        "detail": "data.data_vie.translate",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor\nexample_prompt = PromptTemplate.from_template(",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "write_log_entry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def write_log_entry(entry, file_path):\n    with open(file_path, \"a\") as f:\n        f.write(json.dumps(entry, ensure_ascii=False, indent=4) + \",\\n\")\ndef run(chain, question):\n    return chain.run(question)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def run(chain, question):\n    return chain.run(question)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\ndef get_gemini(text):",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\ndef get_gemini(text):\n    genai.configure(api_key=google_api_key)\n    # Set up the model",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "get_gemini",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def get_gemini(text):\n    genai.configure(api_key=google_api_key)\n    # Set up the model\n    generation_config = {\n        \"temperature\": 0,\n        \"top_p\": 1,\n        \"top_k\": 1,\n        \"max_output_tokens\": 50000,\n    }\n    safety_settings = [",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\nimport time\ngemini_inference_times = []\n# Process the first 20 samples",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "write_mean_scores",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")\nwrite_mean_scores(gemini_scores, gemini_results_path)\n# Write logs to JSON files\ndef write_log(log, file_path):",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "write_log",
+        "kind": 2,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "def write_log(log, file_path):\n    with open(file_path, \"w\") as f:\n        json.dump(log, f, ensure_ascii=False, indent=4)\nwrite_log(gemini_log, gemini_log_path)",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "rouge",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "rouge = Rouge()\nload_dotenv(\"key.env\")\naccess_token = \"\"\nimport requests\nfrom requests.adapters import HTTPAdapter\nfrom requests.packages.urllib3.util.retry import Retry\nfrom langchain.chains import GraphCypherQAChain\nfrom langchain_community.graphs import Neo4jGraph\n# from langchain_openai import ChatOpenAI\nfrom langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "access_token = \"\"\nimport requests\nfrom requests.adapters import HTTPAdapter\nfrom requests.packages.urllib3.util.retry import Retry\nfrom langchain.chains import GraphCypherQAChain\nfrom langchain_community.graphs import Neo4jGraph\n# from langchain_openai import ChatOpenAI\nfrom langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings\nfrom langchain_core.messages import HumanMessage, SystemMessage\nfrom langchain_core.prompts import FewShotPromptTemplate, PromptTemplate",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "uri",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "uri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngoogle_api_key = os.getenv(\"GOOGLE_API_KEY\")\nembeddings = GoogleGenerativeAIEmbeddings(\n    model=\"models/embedding-001\",\n    google_api_key=google_api_key,\n)\ngraph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "user = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngoogle_api_key = os.getenv(\"GOOGLE_API_KEY\")\nembeddings = GoogleGenerativeAIEmbeddings(\n    model=\"models/embedding-001\",\n    google_api_key=google_api_key,\n)\ngraph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [\n    {",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "password = os.getenv(\"PASSWORD\")\ngoogle_api_key = os.getenv(\"GOOGLE_API_KEY\")\nembeddings = GoogleGenerativeAIEmbeddings(\n    model=\"models/embedding-001\",\n    google_api_key=google_api_key,\n)\ngraph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "google_api_key",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "google_api_key = os.getenv(\"GOOGLE_API_KEY\")\nembeddings = GoogleGenerativeAIEmbeddings(\n    model=\"models/embedding-001\",\n    google_api_key=google_api_key,\n)\ngraph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:ĐIỀU_TRỊ) WHERE b.tên_bệnh = 'U lympho sau phúc mạc' RETURN b\",",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "embeddings = GoogleGenerativeAIEmbeddings(\n    model=\"models/embedding-001\",\n    google_api_key=google_api_key,\n)\ngraph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:ĐIỀU_TRỊ) WHERE b.tên_bệnh = 'U lympho sau phúc mạc' RETURN b\",\n    },",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "graph = Neo4jGraph(url=uri, username=user, password=password)\nexamples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:ĐIỀU_TRỊ) WHERE b.tên_bệnh = 'U lympho sau phúc mạc' RETURN b\",\n    },\n    {\n        \"question\": \"Nguyên nhân của bệnh [Chảy máu khoảng cách sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:BỆNH) WHERE b.tên_bệnh = 'Chảy máu khoảng cách sau phúc mạc' RETURN b\",\n    },",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "examples",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "examples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:ĐIỀU_TRỊ) WHERE b.tên_bệnh = 'U lympho sau phúc mạc' RETURN b\",\n    },\n    {\n        \"question\": \"Nguyên nhân của bệnh [Chảy máu khoảng cách sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:BỆNH) WHERE b.tên_bệnh = 'Chảy máu khoảng cách sau phúc mạc' RETURN b\",\n    },\n    {",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "results_dir",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "results_dir = \"/Users/hoanganh692004/Desktop/products-knowledge-graph/results\"\nlogs_dir = \"/Users/hoanganh692004/Desktop/products-knowledge-graph/logs\"\ngemini_results_path = os.path.join(results_dir, \"gemini_graph_cypher.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_graph_cypher.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "logs_dir",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "logs_dir = \"/Users/hoanganh692004/Desktop/products-knowledge-graph/logs\"\ngemini_results_path = os.path.join(results_dir, \"gemini_graph_cypher.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_graph_cypher.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_results_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_results_path = os.path.join(results_dir, \"gemini_graph_cypher.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_graph_cypher.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_log_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_log_path = os.path.join(logs_dir, \"gemini_graph_cypher.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_scores",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_log",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "smoothing_function",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "smoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "example_prompt",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "example_prompt = PromptTemplate.from_template(\n    \"User input: {question}\\nCypher query: {query}\"\n)\nPREFIX = \"\"\"\n    I have a knowledge graph for Vietnamese traditional medicine, where each node represents a disease \"BỆNH\", \"ĐIỀU_TRỊ\", \"TRIỆU_CHỨNG\", \"THUỐC\", \"LỜI_KHUYÊN\". Each node can have the following properties:\n    1. BỆNH\n        - mô_tả_bệnh\n        - loại_bệnh\n        - tên_bệnh\n        - nguyên_nhân",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "PREFIX",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "PREFIX = \"\"\"\n    I have a knowledge graph for Vietnamese traditional medicine, where each node represents a disease \"BỆNH\", \"ĐIỀU_TRỊ\", \"TRIỆU_CHỨNG\", \"THUỐC\", \"LỜI_KHUYÊN\". Each node can have the following properties:\n    1. BỆNH\n        - mô_tả_bệnh\n        - loại_bệnh\n        - tên_bệnh\n        - nguyên_nhân\n    2. ĐIỀU_TRỊ\n        - khoa_điều_trị\n        - tỉ_lệ_chữa_khỏi",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "prompt = FewShotPromptTemplate(\n    examples=examples,\n    example_prompt=example_prompt,\n    prefix=PREFIX,\n    suffix=\"User input: {question}\\nCypher query: \",\n    input_variables=[\"question\", \"schema\"],\n)\ngemini_chain = GraphCypherQAChain.from_llm(\n    ChatGoogleGenerativeAI(\n        model=\"gemini-pro\",",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_chain",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_chain = GraphCypherQAChain.from_llm(\n    ChatGoogleGenerativeAI(\n        model=\"gemini-pro\",\n        google_api_key=\"AIzaSyCaNF1Yh50y3TKwWZvxUJ6tqmrJ8x0FSuE\",\n    ),\n    graph=graph,\n    verbose=True,\n    cypher_prompt=prompt,\n)\ndef write_log_entry(entry, file_path):",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "file_path = \"data/benchmark/1_hop_500.json\"\n# Read the JSON file\nwith open(file_path, \"r\") as file:\n    data = json.load(file)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_inference_times",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "gemini_inference_times = []\n# Process the first 20 samples\nfor i, x in enumerate(data[:20]):  # Limit to the first 20 samples\n    # Gemini inference\n    try:\n        start_time = time.time()\n        gemini_result = run(gemini_chain, x[\"question\"])\n        end_time = time.time()\n        gemini_inference_times.append(end_time - start_time)\n    except Exception as e:",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "average_gemini_inference_time",
+        "kind": 5,
+        "importPath": "experiments.RAG_gemini",
+        "description": "experiments.RAG_gemini",
+        "peekOfCode": "average_gemini_inference_time = sum(gemini_inference_times) / len(\n    gemini_inference_times\n)\nprint(f\"Average Inference Time for Gemini: {average_gemini_inference_time} seconds\")\n# Calculate mean scores and write to text files\ndef write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:",
+        "detail": "experiments.RAG_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "get_authen",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"\n    password = \"kuo3n1nnkngel01lloems2ipop46ovt7l7fqdmb5mcmt5bv7ub2\"\n    headers = {\n        \"Content-Type\": \"application/x-www-form-urlencoded\",\n    }",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "get_apiKey",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def get_apiKey():\n    global access_token\n    global azure_api_key\n    if azure_api_key != \"\":\n        return azure_api_key\n    bearer_token = get_authen()\n    headers = {\n        \"Authorization\": f\"Bearer {bearer_token}\",\n        \"Content-Type\": \"application/json\",\n    }",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "get_azureGPT_model",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def get_azureGPT_model():\n    global azure_api_key\n    azure_api_key = get_apiKey()\n    llm = AzureChatOpenAI(\n        openai_api_key=azure_api_key,\n        openai_api_base=openai_api_base,\n        openai_api_type=openai_api_type,\n        openai_api_version=openai_api_version,\n        deployment_name=openai_api_deployment,\n        temperature=0,",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor\nexample_prompt = PromptTemplate.from_template(",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "write_log_entry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def write_log_entry(entry, file_path):\n    with open(file_path, \"a\") as f:\n        f.write(json.dumps(entry, ensure_ascii=False, indent=4) + \",\\n\")\ndef run(chain, question):\n    return chain.run(question)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def run(chain, question):\n    return chain.run(question)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\ndef get_azureGPT(text):",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\ndef get_azureGPT(text):\n    global azure_api_key\n    azure_api_key = get_apiKey()",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "get_azureGPT",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def get_azureGPT(text):\n    global azure_api_key\n    azure_api_key = get_apiKey()\n    llm = AzureChatOpenAI(\n        openai_api_key=azure_api_key,\n        openai_api_base=openai_api_base,\n        openai_api_type=openai_api_type,\n        openai_api_version=openai_api_version,\n        deployment_name=openai_api_deployment,\n        temperature=0,",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\nimport time\ngpt4_inference_times = []\n# Process the first 20 samples",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "write_mean_scores",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")\nwrite_mean_scores(gpt4_scores, gpt4_results_path)\n# Write logs to JSON files\ndef write_log(log, file_path):",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "write_log",
+        "kind": 2,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "def write_log(log, file_path):\n    with open(file_path, \"w\") as f:\n        json.dump(log, f, ensure_ascii=False, indent=4)\nwrite_log(gpt4_log, gpt4_log_path)",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "access_token = \"\"\nimport requests\nfrom requests.adapters import HTTPAdapter\nfrom requests.packages.urllib3.util.retry import Retry\ncov_get_token_url = (\n    \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n)\ncov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "cov_get_token_url",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "cov_get_token_url = (\n    \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n)\ncov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "cov_get_apikey_url",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "cov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_base",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "openai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_type",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "openai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_version",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "openai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_deployment",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "openai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\nazure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "azure_api_key",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "azure_api_key = \"\"\nuri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "uri",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "uri = os.getenv(\"URI\")\nuser = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "user = os.getenv(\"USER\")\npassword = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"\n    password = \"kuo3n1nnkngel01lloems2ipop46ovt7l7fqdmb5mcmt5bv7ub2\"",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "password = os.getenv(\"PASSWORD\")\ngraph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"\n    password = \"kuo3n1nnkngel01lloems2ipop46ovt7l7fqdmb5mcmt5bv7ub2\"\n    headers = {",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "graph",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "graph = Neo4jGraph(url=uri, username=user, password=password)\ndef get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"\n    password = \"kuo3n1nnkngel01lloems2ipop46ovt7l7fqdmb5mcmt5bv7ub2\"\n    headers = {\n        \"Content-Type\": \"application/x-www-form-urlencoded\",",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "examples",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "examples = [\n    {\n        \"question\": \"Phương pháp điều trị cho bệnh [U lympho sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:ĐIỀU_TRỊ) WHERE b.tên_bệnh = 'U lympho sau phúc mạc' RETURN b\",\n    },\n    {\n        \"question\": \"Nguyên nhân của bệnh [Chảy máu khoảng cách sau phúc mạc] là gì?\",\n        \"query\": \"MATCH (b:BỆNH) WHERE b.tên_bệnh = 'Chảy máu khoảng cách sau phúc mạc' RETURN b\",\n    },\n    {",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "rouge",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "rouge = Rouge()\n# Paths\nresults_dir = \"results\"\nlogs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_graph_cypher.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_graph_cypher.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "results_dir",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "results_dir = \"results\"\nlogs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_graph_cypher.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_graph_cypher.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "logs_dir",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "logs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_graph_cypher.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_graph_cypher.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_results_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_results_path = os.path.join(results_dir, \"gpt4_graph_cypher.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_graph_cypher.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_log_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_log_path = os.path.join(logs_dir, \"gpt4_graph_cypher.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_scores",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_log",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "smoothing_function",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "smoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "example_prompt",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "example_prompt = PromptTemplate.from_template(\n    \"User input: {question}\\nCypher query: {query}\"\n)\nPREFIX = \"\"\"\n    I have a knowledge graph for Vietnamese traditional medicine, where each node represents a disease \"BỆNH\", \"ĐIỀU_TRỊ\", \"TRIỆU_CHỨNG\", \"THUỐC\", \"LỜI_KHUYÊN\". Each node can have the following properties:\n    1. BỆNH\n        - mô_tả_bệnh\n        - loại_bệnh\n        - tên_bệnh\n        - nguyên_nhân",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "PREFIX",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "PREFIX = \"\"\"\n    I have a knowledge graph for Vietnamese traditional medicine, where each node represents a disease \"BỆNH\", \"ĐIỀU_TRỊ\", \"TRIỆU_CHỨNG\", \"THUỐC\", \"LỜI_KHUYÊN\". Each node can have the following properties:\n    1. BỆNH\n        - mô_tả_bệnh\n        - loại_bệnh\n        - tên_bệnh\n        - nguyên_nhân\n    2. ĐIỀU_TRỊ\n        - khoa_điều_trị\n        - tỉ_lệ_chữa_khỏi",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "prompt = FewShotPromptTemplate(\n    examples=examples,\n    example_prompt=example_prompt,\n    prefix=PREFIX,\n    suffix=\"User input: {question}\\nCypher query: \",\n    input_variables=[\"question\", \"schema\"],\n)\ngpt4_chain = GraphCypherQAChain.from_llm(\n    get_azureGPT_model(),\n    graph=graph,",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_chain",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_chain = GraphCypherQAChain.from_llm(\n    get_azureGPT_model(),\n    graph=graph,\n    verbose=True,\n    cypher_prompt=prompt,\n)\ndef write_log_entry(entry, file_path):\n    with open(file_path, \"a\") as f:\n        f.write(json.dumps(entry, ensure_ascii=False, indent=4) + \",\\n\")\ndef run(chain, question):",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "file_path = \"data/benchmark/1_hop_500.json\"\n# Read the JSON file\nwith open(file_path, \"r\") as file:\n    data = json.load(file)\ndef call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_inference_times",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "gpt4_inference_times = []\n# Process the first 20 samples\nfor i, x in enumerate(data[:20]):  # Limit to the first 20 samples\n    # GPT-4 inference\n    try:\n        start_time = time.time()\n        gpt4_result = run(gpt4_chain, x[\"question\"])\n        end_time = time.time()\n        gpt4_inference_times.append(end_time - start_time)\n    except Exception as e:",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "average_gpt4_inference_time",
+        "kind": 5,
+        "importPath": "experiments.RAG_gpt",
+        "description": "experiments.RAG_gpt",
+        "peekOfCode": "average_gpt4_inference_time = sum(gpt4_inference_times) / len(gpt4_inference_times)\nprint(f\"Average Inference Time for GPT4: {average_gpt4_inference_time} seconds\")\n# Calculate mean scores and write to text files\ndef write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")",
+        "detail": "experiments.RAG_gpt",
+        "documentation": {}
+    },
+    {
+        "label": "requests_retry_session",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def requests_retry_session(\n    retries=5,\n    backoff_factor=1,\n    status_forcelist=(500, 502, 504),\n    session=None,\n):\n    session = session or requests.Session()\n    retry = Retry(\n        total=retries,\n        read=retries,",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "get_gemini",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def get_gemini(text):\n    response = llm.invoke([text])\n    # response = response.text\n    return response\n# Define the path to the JSON file\nfile_path = \"data/benchmark/resampled_1_hop.json\"\n# Read the JSON file\nwith open(file_path, \"r\") as file:\n    data = json.load(file)\nnltk.download(\"wordnet\")",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor\ndef call_model_with_retry(model_func, prompt):",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\nimport time\n# Initialize lists to store inference times\ngemini_inference_times = []",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "write_mean_scores",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")\nwrite_mean_scores(gemini_scores, gemini_results_path)\n# Write logs to JSON files\ndef write_log(log, file_path):",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "write_log",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "def write_log(log, file_path):\n    with open(file_path, \"w\") as f:\n        json.dump(log, f, ensure_ascii=False, indent=4)\nwrite_log(gemini_log, gemini_log_path)",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "access_token = \"\"\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}\nsafety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "generation_config",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "generation_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}\nsafety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\"category\": \"HARM_CATEGORY_HATE_SPEECH\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "safety_settings",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "safety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\"category\": \"HARM_CATEGORY_HATE_SPEECH\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\n        \"category\": \"HARM_CATEGORY_SEXUALLY_EXPLICIT\",\n        \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\",\n    },\n    {\n        \"category\": \"HARM_CATEGORY_DANGEROUS_CONTENT\",\n        \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\",",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "google_api_key",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "google_api_key = os.getenv(\"GOOGLE_API_KEY\")\nllm = ChatGoogleGenerativeAI(\n    model=\"gemini-pro\",\n    temperature=0.7,\n    top_p=0.85,\n    google_api_key=google_api_key,\n    convert_system_message_to_human=True,\n)\ndef get_gemini(text):\n    response = llm.invoke([text])",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "llm = ChatGoogleGenerativeAI(\n    model=\"gemini-pro\",\n    temperature=0.7,\n    top_p=0.85,\n    google_api_key=google_api_key,\n    convert_system_message_to_human=True,\n)\ndef get_gemini(text):\n    response = llm.invoke([text])\n    # response = response.text",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "file_path = \"data/benchmark/resampled_1_hop.json\"\n# Read the JSON file\nwith open(file_path, \"r\") as file:\n    data = json.load(file)\nnltk.download(\"wordnet\")\n# Initialize ROUGE scorer\nrouge = Rouge()\n# Paths\nresults_dir = \"results\"\nlogs_dir = \"logs\"",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "rouge",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "rouge = Rouge()\n# Paths\nresults_dir = \"results\"\nlogs_dir = \"logs\"\ngemini_results_path = os.path.join(results_dir, \"gemini_zero_shot.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_zero_shot.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "results_dir",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "results_dir = \"results\"\nlogs_dir = \"logs\"\ngemini_results_path = os.path.join(results_dir, \"gemini_zero_shot.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_zero_shot.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "logs_dir",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "logs_dir = \"logs\"\ngemini_results_path = os.path.join(results_dir, \"gemini_zero_shot.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_zero_shot.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_results_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "gemini_results_path = os.path.join(results_dir, \"gemini_zero_shot.txt\")\ngemini_log_path = os.path.join(logs_dir, \"gemini_zero_shot.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_log_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "gemini_log_path = os.path.join(logs_dir, \"gemini_zero_shot.json\")\n# Initialize lists to store scores\ngemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_scores",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "gemini_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_log",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "gemini_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "smoothing_function",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "smoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "gemini_inference_times",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "gemini_inference_times = []\n# Process the first 20 samples\nfor i, x in enumerate(data[:10]):  # Limit to the first 20 samples\n    PROMPT = f\"\"\"\n    Bạn là một chuyên gia về y học cổ truyền Việt Nam. Hãy trả lời đúng trọng tâm câu hỏi, không cần bổ sung thêm thông tin.\n    Câu hỏi: {x[\"question\"]}\n    \"\"\"\n    start_time = time.time()\n    gemini_result = call_model_with_retry(get_gemini, PROMPT)\n    end_time = time.time()",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "average_gemini_inference_time",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gemini",
+        "description": "experiments.zero_shot_gemini",
+        "peekOfCode": "average_gemini_inference_time = sum(gemini_inference_times) / len(\n    gemini_inference_times\n)\nprint(f\"Average Inference Time for Gemini: {average_gemini_inference_time} seconds\")\n# Calculate mean scores and write to text files\ndef write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:",
+        "detail": "experiments.zero_shot_gemini",
+        "documentation": {}
+    },
+    {
+        "label": "requests_retry_session",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def requests_retry_session(\n    retries=5,\n    backoff_factor=1,\n    status_forcelist=(500, 502, 504),\n    session=None,\n):\n    session = session or requests.Session()\n    retry = Retry(\n        total=retries,\n        read=retries,",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_authen",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_authen():\n    global access_token\n    if access_token != \"\":\n        return access_token\n    url = \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n    username = \"1bnt12o2j53b16id2eerklhd4a\"\n    password = \"kuo3n1nnkngel01lloems2ipop46ovt7l7fqdmb5mcmt5bv7ub2\"\n    headers = {\n        \"Content-Type\": \"application/x-www-form-urlencoded\",\n    }",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_covGPT",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_covGPT(text):\n    api_url = \"https://lengthy.api.covestro.com/openai/chat/gpt4\"\n    bearer_token = get_authen()\n    json_data = {\n        \"temperature\": 0,\n        # \"response_format\": {\"type\": \"json_object\"},\n        \"messages\": [\n            # {\"role\": \"system\", \"content\": \"You are a helpful assistant fluent in German, your task is to carefully read the given text and extract the information to the JSON format. You must return the output as the valid JSON, property name should be enclosed in double quotes.\"},\n            {\"role\": \"user\", \"content\": text}\n        ],",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_covGPT_section2",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_covGPT_section2(text):\n    api_url = \"https://lengthy.api.covestro.com/openai/chat/gpt4turbo\"\n    bearer_token = get_authen()\n    json_data = {\n        \"temperature\": 0,\n        \"messages\": [{\"role\": \"user\", \"content\": text}],\n        \"functions\": section2_custom_functions,\n        \"function_call\": \"auto\",\n    }\n    # Set headers with Bearer token",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_apiKey",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_apiKey():\n    global access_token\n    global azure_api_key\n    if azure_api_key != \"\":\n        return azure_api_key\n    bearer_token = get_authen()\n    headers = {\n        \"Authorization\": f\"Bearer {bearer_token}\",\n        \"Content-Type\": \"application/json\",\n    }",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_azureGPT",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_azureGPT(text):\n    global azure_api_key\n    azure_api_key = get_apiKey()\n    llm = AzureChatOpenAI(\n        openai_api_key=azure_api_key,\n        openai_api_base=openai_api_base,\n        openai_api_type=openai_api_type,\n        openai_api_version=openai_api_version,\n        deployment_name=openai_api_deployment,\n        temperature=0,",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "get_scores",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor\ndef call_model_with_retry(model_func, prompt):",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "call_model_with_retry",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def call_model_with_retry(model_func, prompt):\n    while True:\n        try:\n            result = model_func(prompt)\n            return result\n        except Exception as e:\n            print(f\"Error: {e}. Retrying...\")\nimport time\n# Initialize lists to store inference times\ngpt4_inference_times = []",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "write_mean_scores",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")\nwrite_mean_scores(gpt4_scores, gpt4_results_path)\n# Write logs to JSON files\ndef write_log(log, file_path):",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "write_log",
+        "kind": 2,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "def write_log(log, file_path):\n    with open(file_path, \"w\") as f:\n        json.dump(log, f, ensure_ascii=False, indent=4)\nwrite_log(gpt4_log, gpt4_log_path)",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "access_token",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "access_token = \"\"\ncov_get_token_url = (\n    \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n)\ncov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "cov_get_token_url",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "cov_get_token_url = (\n    \"https://auth.api.covestro.com/oauth2/token?grant_type=client_credentials\"\n)\ncov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "cov_get_apikey_url",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "cov_get_apikey_url = \"https://api.covestro.com/openai/apikey\"\nopenai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_base",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "openai_api_base = os.getenv(\"OPENAI_API_BASE\")\nopenai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_type",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "openai_api_type = os.getenv(\"OPENAI_API_TYPE\")\nopenai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_version",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "openai_api_version = os.getenv(\"OPENAI_API_VERSION\")\nopenai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}\nsafety_settings = [",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "openai_api_deployment",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "openai_api_deployment = os.getenv(\"OPENAI_MODEL_DEPLOYMENT\")\n# Set up the model\ngeneration_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}\nsafety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "generation_config",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "generation_config = {\n    \"temperature\": 0,\n    \"top_p\": 1,\n    \"top_k\": 1,\n    \"max_output_tokens\": 50000,\n}\nsafety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\"category\": \"HARM_CATEGORY_HATE_SPEECH\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "safety_settings",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "safety_settings = [\n    {\"category\": \"HARM_CATEGORY_HARASSMENT\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\"category\": \"HARM_CATEGORY_HATE_SPEECH\", \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\"},\n    {\n        \"category\": \"HARM_CATEGORY_SEXUALLY_EXPLICIT\",\n        \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\",\n    },\n    {\n        \"category\": \"HARM_CATEGORY_DANGEROUS_CONTENT\",\n        \"threshold\": \"BLOCK_MEDIUM_AND_ABOVE\",",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "file_path = \"data/benchmark/resampled_1_hop.json\"\n# Read the JSON file\nwith open(file_path, \"r\") as file:\n    data = json.load(file)\nnltk.download(\"wordnet\")\n# Initialize ROUGE scorer\nrouge = Rouge()\n# Paths\nresults_dir = \"results\"\nlogs_dir = \"logs\"",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "rouge",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "rouge = Rouge()\n# Paths\nresults_dir = \"results\"\nlogs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_zero_shot.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_zero_shot.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "results_dir",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "results_dir = \"results\"\nlogs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_zero_shot.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_zero_shot.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "logs_dir",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "logs_dir = \"logs\"\ngpt4_results_path = os.path.join(results_dir, \"gpt4_zero_shot.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_zero_shot.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_results_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "gpt4_results_path = os.path.join(results_dir, \"gpt4_zero_shot.txt\")\ngpt4_log_path = os.path.join(logs_dir, \"gpt4_zero_shot.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_log_path",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "gpt4_log_path = os.path.join(logs_dir, \"gpt4_zero_shot.json\")\n# Initialize lists to store scores\ngpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_scores",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "gpt4_scores = {\"BLEU\": [], \"ROUGE\": [], \"METEOR\": []}\n# Logs to store answers and scores\ngpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_log",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "gpt4_log = []\nsmoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "smoothing_function",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "smoothing_function = SmoothingFunction().method1\ndef get_scores(hypothesis, reference):\n    hypothesis_tokens = hypothesis.split()\n    reference_tokens = reference.split()\n    bleu = sentence_bleu(\n        [reference_tokens], hypothesis_tokens, smoothing_function=smoothing_function\n    )\n    rouge_score = rouge.get_scores(hypothesis, reference)[0][\"rouge-l\"][\"f\"]\n    meteor = meteor_score([reference_tokens], hypothesis_tokens)\n    return bleu, rouge_score, meteor",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "gpt4_inference_times",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "gpt4_inference_times = []\n# Process the first 20 samples\nfor i, x in enumerate(data[:10]):  # Limit to the first 20 samples\n    PROMPT = f\"\"\"\n    Bạn là một chuyên gia về y học cổ truyền Việt Nam. Hãy trả lời đúng trọng tâm câu hỏi, không cần bổ sung thêm thông tin.\n    Câu hỏi: {x[\"question\"]}\n    \"\"\"\n    # GPT-4 inference\n    start_time = time.time()\n    gpt4_result = call_model_with_retry(get_azureGPT, PROMPT)",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    },
+    {
+        "label": "average_gpt4_inference_time",
+        "kind": 5,
+        "importPath": "experiments.zero_shot_gpt4",
+        "description": "experiments.zero_shot_gpt4",
+        "peekOfCode": "average_gpt4_inference_time = sum(gpt4_inference_times) / len(gpt4_inference_times)\nprint(f\"Average Inference Time for GPT-4: {average_gpt4_inference_time} seconds\")\n# Calculate mean scores and write to text files\ndef write_mean_scores(scores, file_path):\n    mean_scores = {\n        metric: sum(values) / len(values) for metric, values in scores.items()\n    }\n    with open(file_path, \"w\") as f:\n        for metric, score in mean_scores.items():\n            f.write(f\"{metric}: {score}\\n\")",
+        "detail": "experiments.zero_shot_gpt4",
+        "documentation": {}
+    }
+]
