@@ -104,14 +104,14 @@ class Question_benh_to_X:
         Returns:
         - str or None: Generated question or None if no valid response from GPT-3.
         """
-        prompt = f"""Imagine you are a doctor, have a lot of patients and receive lots of questions everyday. 
-            Create a human-like question based on the given question [{item['question']}]
-            and return in json format with only returned question: 
+        prompt = f"""Imagine you are a doctor managing a large number of patients and receiving numerous questions daily.
+        Based on the provided question [{item['question']}], create a human-like question that a patient might ask. 
+        Return the question in JSON format, preserving the brackets [] in the question. If the answer does not contain any specific information, 
+        such as "Không có thông tin cụ thể" or similar, return an empty JSON object
             {{
                 {"question": ""}
             }}.
-            For example: {{"question": "Bạn có thể cho tôi biết thêm về [Ung thư tế bào tuyến nang] không?"}}
-            You have to keep the bracket [] in the question.  Specially, if the answer do not contain any information like "Không có thông tin cụ thể",etc, return {{}}"""
+            You have to keep the bracket [] in the question. Especially, if the answer does not contain any information like "Không có thông tin cụ thể", etc, return {{}}"""
 
         result = get_GPT(prompt)
         try:
