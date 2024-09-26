@@ -1,4 +1,4 @@
-# VieMedKG: Knowledge Graph and Benchmark for Traditional Vietnamese Medicine
+# VietMedKG: Knowledge Graph and Benchmark for Traditional Vietnamese Medicine
 
 Paper: https://doi.org/10.1101/2024.08.07.606195
 
